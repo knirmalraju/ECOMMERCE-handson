@@ -67,7 +67,7 @@ const ContactItem = styled.div`
 const Payment = styled.img`
     width : 50%;
 `;
-
+//footer code
 const Footer = () => {
     return (
         <div>
